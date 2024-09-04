@@ -1,0 +1,47 @@
+.section1{
+    background-image: url("/image/hugo-pizza-tlo-1.jpg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+}
+.sec1-text{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.sec1-text H1{
+    font-size: 100px;
+    color: white;
+}
+.sec1-text p{
+    font-size: 26px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sec1-text button{
+    padding: 10px 0px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+.sec1-text button:hover{
+    background-color: brown;
+    transition: 0.5s;
+}
+@media (max-width:723px) {
+    .sec1-text button{
+        padding: 10px 5px;
+        background-color: red;
+        color: white;
+        font-size: 20px;
+        border: none;
+        cursor: pointer;
+    }   
+}
