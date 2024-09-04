@@ -1,5 +1,5 @@
 .section1{
-    background-image: url("/image/hugo-pizza-tlo-1.jpg.png");
+    background-image: url("./image/hugo-pizza-tlo-1.jpg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

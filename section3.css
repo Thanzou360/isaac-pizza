@@ -1,6 +1,6 @@
 
     .section3{
-        background-image: url("/image/Container\ copy.png");
+        background-image: url("./image/Container\ copy.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -52,7 +52,7 @@
 
 @media (max-width:480px) {
     .section3{
-        background-image: url("/image/Container\ copy.png");
+        background-image: url("./image/Container\ copy.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -86,7 +86,7 @@
 }
 @media (max-width:581px) {
     .section3{
-        background-image: url("/image/Container\ copy.png");
+        background-image: url("./image/Container\ copy.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
